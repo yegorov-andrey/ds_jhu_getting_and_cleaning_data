@@ -10,3 +10,5 @@ Additional information about the variables, data and transformations can be foun
 
 1. place `UCI HAR Dataset` folder with the raw data in the working directory.
 2. execute `run_analysis.R` script to process raw data and write tidy data set to the file `tidy_data.txt`.
+
+Note: improved version of the script is `run_analysis.R` writes data to `output_data.txt`.
